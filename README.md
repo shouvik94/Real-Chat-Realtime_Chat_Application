@@ -36,7 +36,7 @@ Back end is implemented using **Node JS**, **Express JS** and **MongoDB**. **Atl
 </ul>
 
 
-## Tech Stack
+### Tech Stack
 
 MongoDB, Express, React, Node, Socket.IO
 
