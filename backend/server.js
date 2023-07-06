@@ -97,16 +97,3 @@ io.on("connection", (socket) => {
 
 });  
 
-////////////////////////////////////////////////////////////////
-////////////////////////////////
-//call join to subscribe the socket to a given channel/room
-
-//  io.on("connection", (socket) => {
-//   socket.join("some room");
-// }); 
-
-// //broadcast to a room from a given socket --  every socket in the room excluding the sender will get the event.
-
-// io.on("connection", (socket) => {
-//   socket.to("some room").emit("some event");
-// }); 
