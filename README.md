@@ -45,7 +45,7 @@ Back end is implemented using [Node JS], [Express JS] and [MongoDB]. [Atlas], th
 ## Tech Stack
 
 MongoDB, Express, React, Node, Socket.IO
-```
+
 
 ### Env Variables
 
