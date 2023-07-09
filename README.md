@@ -1,10 +1,10 @@
 # Real-Chat
 
-> A Realtime Messaging Application
+-> A Realtime Messaging Application
 
 A simple realtime chat application made using **React JS**, **Node JS**, **Express JS** and **MongoDB**
 
- To install all the dependecies `npm` is used.
+ To install all the dependencies `npm` is used.
 
 Back end is implemented using **Node JS**, **Express JS** and **MongoDB**. **Atlas**, the _Cloud_ version of **MongoDB** is used. Real time communication is done using **Socket.io**.
 
@@ -28,11 +28,11 @@ Back end is implemented using **Node JS**, **Express JS** and **MongoDB**. **Atl
 
 <ul>
  <li> Realtime One on One and group chats </li>
- <li> Functionality like Search for chats, create a group, add or remove partricipants. </li>   
+ <li> Functionality like Search for chats, create a group, add or remove participants. </li>   
  <li> typing... animation. </li>
- <li> Online / Offline status are shown . </li>
+ <li> Online / Offline status are shown. </li>
  <li> Read / Unread status of conversation is shown.
- <li> All the conversation are stored in the database 
+ <li> All the conversations are stored in the database 
 </ul>
 
 
