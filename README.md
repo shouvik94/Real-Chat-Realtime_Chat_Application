@@ -2,11 +2,11 @@
 
 -> A Realtime Messaging Application
 
-A simple realtime chat application made using **React**, **Node JS**, **Express JS** and **MongoDB**
+A simple realtime chat application made using **React**, **Node.js**, **Express.js** and **MongoDB**
 
- To install all the dependencies `npm` is used.
+ To install all the dependencies, `npm` is used.
 
-Back end is implemented using **Node JS**, **Express JS** and **MongoDB**. **Atlas**, the _Cloud_ version of **MongoDB** is used. Real time communication is done using **Socket.io**.
+The backend is implemented using **Node.js**, **Express.js** and **MongoDB**. **Atlas**, the _Cloud_ version of **MongoDB** is used. Real-time communication is done using **Socket.io**.
 
 
 
@@ -20,7 +20,7 @@ Back end is implemented using **Node JS**, **Express JS** and **MongoDB**. **Atl
 
 - All the user details, group chats and conversations are stored in the **MongoDB Atlas**
 <ul>
- <li>Login/Signup as well as Logout feature is present. </li>
+ <li>Login/Signup, as well as the Logout feature, is present. </li>
  <li>Error will be shown if the credentials are not correct</li>
 </ul>
 
@@ -28,9 +28,9 @@ Back end is implemented using **Node JS**, **Express JS** and **MongoDB**. **Atl
 
 <ul>
  <li> Realtime One on One and group chats </li>
- <li> Functionality like Search for chats, create a group, add or remove participants. </li>   
+ <li> Functionality like Searching for chats, creating a group, adding or removing participants. </li>   
  <li> typing... animation. </li>
- <li> Online / Offline status are shown. </li>
+ <li> Online / Offline statuses are shown. </li>
  <li> Read / Unread status of conversation is shown.
  <li> All the conversations are stored in the database 
 </ul>
@@ -53,7 +53,7 @@ JWT_SECRET = <yourSecret>
 ```
 
 ### Install Dependencies (frontend & backend)
--Use below command to install dependencies in both forntend & backend folders.
+-Use the below command to install dependencies in both frontend & backend folders.
 ```
 npm install
 ```
