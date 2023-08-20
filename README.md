@@ -2,7 +2,7 @@
 
 -> A Realtime Messaging Application
 
-A simple realtime chat application made using **React JS**, **Node JS**, **Express JS** and **MongoDB**
+A simple realtime chat application made using **React**, **Node JS**, **Express JS** and **MongoDB**
 
  To install all the dependencies `npm` is used.
 
